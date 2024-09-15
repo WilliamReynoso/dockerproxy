@@ -12,3 +12,4 @@ Ejecutamos los contenedores con docker-compose y revisamos localhost/ y localhos
 
 ![imagen](https://github.com/user-attachments/assets/82660531-e8f9-4c33-8ba1-cebd71c70f8c)
 ![imagen](https://github.com/user-attachments/assets/878ce709-e8f7-49b7-9b2e-8898752718c7)
+Para mas detalles favor de revisar los demas archivos de configuración y el código.
