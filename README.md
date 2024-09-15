@@ -8,5 +8,7 @@ Se utilizaron 2 contenedores uno de Nginx y uno de python que se juntaron con do
 
 ## Ejecutar el ejemplo de FLASK configurar proxy para responder por enpoint /pagina para resolver el puerto 5000 del FLASK.
 Ejecutamos los contenedores con docker-compose y revisamos localhost/ y localhost/pagina
+![imagen](https://github.com/user-attachments/assets/58050e39-1189-4e04-b396-e8ad19059463)
+
 ![imagen](https://github.com/user-attachments/assets/82660531-e8f9-4c33-8ba1-cebd71c70f8c)
 ![imagen](https://github.com/user-attachments/assets/878ce709-e8f7-49b7-9b2e-8898752718c7)
